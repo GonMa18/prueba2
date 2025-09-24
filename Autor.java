@@ -9,4 +9,4 @@ public class Autor {
     ArrayList<String> publicaciones;
     
 }
-//Billabong
+//Oskar
