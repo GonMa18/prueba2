@@ -9,3 +9,5 @@ public class Autor {
     ArrayList<String> publicaciones;
 //EXIT
 }
+
+// Prueba 1 de que soy la leche y funciona --> 14:55 
